@@ -4,7 +4,9 @@ Este projeto realiza uma análise exploratória de dados financeiros armazenados
 
 ## Tecnologias e dependências
 
-Para executar o projeto, é necessário instalar as dependências listadas no arquivo `requirements.txt`:
+Para executar o projeto, é necessário instalar as dependências listadas no arquivo `requirements.txt`
+
+link do Dataset : https://www.kaggle.com/datasets/preethamgouda/financial-risk
 
 Além disso, é necessário instalar o Jupyter para executar o notebook interativo.
 
@@ -17,8 +19,8 @@ Siga os passos abaixo para configurar o ambiente:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/seu-usuario/seu-repositorio.git](https://github.com/milenahamerski/financial-data-analysis.git
+cd financial-data-analysis
 ```
 
 ### 2. Crie e ative um ambiente virtual Python
